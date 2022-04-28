@@ -1,0 +1,145 @@
+div#botonEntrar2 {
+    position: absolute;
+    left: 0px;
+    bottom: 76px;
+    width: 90%;
+}
+
+#usu {
+    width: 94%;
+}
+
+#send {
+    margin-top: 0%;
+}
+
+#contenedorlogin {
+    height: 5px;
+}
+
+.registro {
+    margin: top 2px;
+}
+
+#comentario {
+    padding: 18px 8px 43px 5px;
+}
+
+#logo {
+    width: 240px;
+    overflow: hidden;
+    height: 199px;
+    background-color: #EC7404;
+}
+
+#IDIOMAT {
+    background-color: white;
+}
+
+#hola {
+    border: 1px solid black !important;
+    background-color: black;
+    z-index: 10px;
+}
+
+li a#personas-zp {
+    background-image: url(../img/icono_pagos.gif);
+}
+
+li a#personas-f {
+    background-image: url(../img/icono_prestamos.gif);
+}
+
+li a#personas-ce {
+    background-image: url(../img/icono_canales.gif);
+}
+
+li a#personas-c {
+    background-image: url(../img/icono_cuentas.gif);
+}
+
+li a#guia-portal {
+    background-image: url(../img/141220_botonTransparencia_cafe.gif);
+}
+
+li a#faq {
+    background-image: url(../img/icono_preguntas_frecuentes.png);
+}
+
+li a#personas-i {
+    background-image: url(../img/icono_inversion.gif);
+}
+
+li a#btn-ser-cli {
+    background-image: url(../img/Servicio_al_cliente_1.gif);
+}
+
+
+/* contenedores de imagenes */
+
+#personas-zp:hover {
+    color: #fff !important;
+    border: 3px solid #ec7404;
+    border-radius: 1em;
+}
+
+#personas-f:hover {
+    color: #fff !important;
+    border: 3px solid #ec7404;
+    border-radius: 1em;
+}
+
+#personas-ce:hover {
+    color: #fff !important;
+    border: 3px solid #ec7404;
+    border-radius: 1em;
+}
+
+#personas-c:hover {
+    color: #fff !important;
+    border: 3px solid #ec7404;
+    border-radius: 1em;
+}
+
+#guia-portal:hover {
+    color: #fff !important;
+    border: 3px solid #ec7404;
+    border-radius: 1em;
+}
+
+#faq:hover {
+    color: #fff !important;
+    border: 3px solid #ec7404;
+    border-radius: 1em;
+}
+
+#personas-i:hover {
+    color: #fff !important;
+    border: 3px solid #ec7404;
+    border-radius: 1em;
+}
+
+#btn-ser-cli:hover {
+    color: #fff !important;
+    border: 3px solid #ec7404;
+    border-radius: 1em;
+}
+
+.aui a {
+    color: #ec7404;
+    text-decoration: none;
+}
+
+a:link,
+a:visited {
+    font-family: Arial;
+    color: #F47C20;
+    text-decoration: none;
+}
+
+a {
+    font-family: Arial;
+    color: #F47C20;
+    font-size: 11px;
+    text-decoration: none;
+}
